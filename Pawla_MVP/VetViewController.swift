@@ -4,6 +4,7 @@ class VetViewController: UIViewController {
     @IBOutlet weak var pickerView: UIPickerView!
     @IBOutlet weak var languagePicker: UIPickerView!
     
+    // update test
     let petNames = ["A", "B", "C", "D", "E"]
     let languages = ["English", "简体中文"]
     
