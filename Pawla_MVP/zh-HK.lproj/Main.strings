@@ -1,0 +1,351 @@
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "0Pp-VW-ocu"; */
+"0Pp-VW-ocu.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Home"; ObjectID = "0gq-TJ-KnV"; */
+"0gq-TJ-KnV.text" = "主頁";
+
+/* Class = "UILabel"; text = "Appointment"; ObjectID = "0mH-PU-U0V"; */
+"0mH-PU-U0V.text" = "就醫預約";
+
+/* Class = "UIButton"; configuration.title = "Weight"; ObjectID = "1J6-NS-Dap"; */
+"1J6-NS-Dap.configuration.title" = "體重";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "1J6-NS-Dap"; */
+"1J6-NS-Dap.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Please log in so we can take care of your pets "; ObjectID = "3U7-Vt-tFX"; */
+"3U7-Vt-tFX.text" = "請登入以便我們可以照顧您的寵物 ";
+
+/* Class = "UILabel"; text = "No results"; ObjectID = "3Xo-7f-S8L"; */
+"3Xo-7f-S8L.text" = "無結果";
+
+/* Class = "UILabel"; text = "Male"; ObjectID = "6ng-jh-N7w"; */
+"6ng-jh-N7w.text" = "男";
+
+/* Class = "UIButton"; configuration.title = "Surprise"; ObjectID = "811-bD-0uh"; */
+"811-bD-0uh.configuration.title" = "驚喜";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "811-bD-0uh"; */
+"811-bD-0uh.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Go to Home Page"; ObjectID = "8no-Q4-3by"; */
+"8no-Q4-3by.configuration.title" = "返回主頁";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "8no-Q4-3by"; */
+"8no-Q4-3by.normalTitle" = "Button";
+
+/* Class = "UITabBarItem"; title = "Shop"; ObjectID = "8wO-4x-qnr"; */
+"8wO-4x-qnr.title" = "商店";
+
+/* Class = "UIButton"; configuration.title = "No"; ObjectID = "9KC-Mb-yeM"; */
+"9KC-Mb-yeM.configuration.title" = "否";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "9KC-Mb-yeM"; */
+"9KC-Mb-yeM.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Log in / Sign up"; ObjectID = "9NY-9G-VpL"; */
+"9NY-9G-VpL.configuration.title" = "登入/註冊";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "9NY-9G-VpL"; */
+"9NY-9G-VpL.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Recommended products: "; ObjectID = "AEO-3b-q50"; */
+"AEO-3b-q50.text" = "推薦產品： ";
+
+/* Class = "UIButton"; configuration.title = "MBTI"; ObjectID = "AQe-1x-I6b"; */
+"AQe-1x-I6b.configuration.title" = "MBTI";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "AQe-1x-I6b"; */
+"AQe-1x-I6b.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Dental"; ObjectID = "Aas-td-evO"; */
+"Aas-td-evO.configuration.title" = "牙醫";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Aas-td-evO"; */
+"Aas-td-evO.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Welcome back,  pet lover!"; ObjectID = "BtZ-rY-6xj"; */
+"BtZ-rY-6xj.text" = "歡迎回來,  愛寵人!";
+
+/* Class = "UIButton"; configuration.title = "Take a snap"; ObjectID = "Cut-bt-VRR"; */
+"Cut-bt-VRR.configuration.title" = "為寵物拍照";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Cut-bt-VRR"; */
+"Cut-bt-VRR.normalTitle" = "Button";
+
+/* Class = "UITabBarItem"; title = "Settings"; ObjectID = "DaE-A4-VtA"; */
+"DaE-A4-VtA.title" = "設置";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "ELz-o6-BkW"; */
+"ELz-o6-BkW.placeholder" = "用戶名";
+
+/* Class = "UIButton"; configuration.title = "Login"; ObjectID = "GSI-Px-Rzd"; */
+"GSI-Px-Rzd.configuration.title" = "登入";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "GSI-Px-Rzd"; */
+"GSI-Px-Rzd.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "see all"; ObjectID = "Gat-iG-Kpy"; */
+"Gat-iG-Kpy.configuration.title" = "查看所有";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Gat-iG-Kpy"; */
+"Gat-iG-Kpy.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "HZa-hR-t0r"; */
+"HZa-hR-t0r.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Shop easily 🛍"; ObjectID = "Huz-eZ-nvH"; */
+"Huz-eZ-nvH.text" = "便利購物 🛍";
+
+/* Class = "UILabel"; text = "Select pet"; ObjectID = "KEF-K1-Pdp"; */
+"KEF-K1-Pdp.text" = "選擇寵物";
+
+/* Class = "UILabel"; text = "Female"; ObjectID = "KgJ-bt-kDe"; */
+"KgJ-bt-kDe.text" = "女";
+
+/* Class = "UILabel"; text = "What's your pet's species?"; ObjectID = "LyA-Y4-gNM"; */
+"LyA-Y4-gNM.text" = "您愛寵的品種是？";
+
+/* Class = "UILabel"; text = "Pawla helps with a few simple steps to  take care of your beloved pet on a daily  basis"; ObjectID = "MCQ-9C-lB3"; */
+"MCQ-9C-lB3.text" = "Pawla將每天為您照顧您的愛寵";
+
+/* Class = "UITextField"; placeholder = "breed"; ObjectID = "MET-Ta-p72"; */
+"MET-Ta-p72.placeholder" = "品種";
+
+/* Class = "UILabel"; text = "Get all pet accessories from one place\nby this app and enjoy a hassle-free\nshopping"; ObjectID = "N5r-W7-6TB"; */
+"N5r-W7-6TB.text" = "使用本應用程式一站式購買寵物用品，輕鬆無憂的購物體驗";
+
+/* Class = "UILabel"; text = "No recommended products"; ObjectID = "NZy-5W-Kce"; */
+"NZy-5W-Kce.text" = "無推薦商品";
+
+/* Class = "UILabel"; text = "Dog"; ObjectID = "PUL-bL-dJd"; */
+"PUL-bL-dJd.text" = "狗";
+
+/* Class = "UILabel"; text = "Care for your pet 🐶"; ObjectID = "PXQ-P6-G1C"; */
+"PXQ-P6-G1C.text" = "照顧您的愛寵 🐶";
+
+/* Class = "UIButton"; configuration.title = "Next"; ObjectID = "Pwu-TG-ppH"; */
+"Pwu-TG-ppH.configuration.title" = "下一頁";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Pwu-TG-ppH"; */
+"Pwu-TG-ppH.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Sign in with Wechat"; ObjectID = "Qoc-Xr-hwg"; */
+"Qoc-Xr-hwg.configuration.title" = "微信登錄";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Qoc-Xr-hwg"; */
+"Qoc-Xr-hwg.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Pawla Shop"; ObjectID = "Rx7-8a-HPn"; */
+"Rx7-8a-HPn.text" = "Pawla商店";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "SLP-IU-MDR"; */
+"SLP-IU-MDR.text" = "設置";
+
+/* Class = "UITabBarItem"; title = "Explore"; ObjectID = "TT6-Am-DYi"; */
+"TT6-Am-DYi.title" = "探索";
+
+/* Class = "UITabBarItem"; title = "Home"; ObjectID = "UKj-9n-pms"; */
+"UKj-9n-pms.title" = "主頁";
+
+/* Class = "UIButton"; configuration.title = "Shop online"; ObjectID = "Uz8-76-yCU"; */
+"Uz8-76-yCU.configuration.title" = "在線購物";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Uz8-76-yCU"; */
+"Uz8-76-yCU.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Please enter the birth date of  your lovely pet"; ObjectID = "V8F-Nt-2Aq"; */
+"V8F-Nt-2Aq.text" = "請輸入您愛寵的生日";
+
+/* Class = "UILabel"; text = "Preferred language"; ObjectID = "V9Q-hJ-JqK"; */
+"V9Q-hJ-JqK.text" = "語言偏好";
+
+/* Class = "UILabel"; text = "Don't have an account?"; ObjectID = "WLI-59-Ilc"; */
+"WLI-59-Ilc.text" = "沒有帳號?";
+
+/* Class = "UILabel"; text = "Suceessfully added!"; ObjectID = "WMV-BX-fW5"; */
+"WMV-BX-fW5.text" = "拍照成功!";
+
+/* Class = "UIButton"; configuration.title = "Next"; ObjectID = "WPc-xJ-5de"; */
+"WPc-xJ-5de.configuration.title" = "下一頁";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "WPc-xJ-5de"; */
+"WPc-xJ-5de.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Surprise"; ObjectID = "X2z-Mv-HD0"; */
+"X2z-Mv-HD0.configuration.title" = "驚喜";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "X2z-Mv-HD0"; */
+"X2z-Mv-HD0.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "———— Or Continue with ———— "; ObjectID = "Y5c-yZ-2dc"; */
+"Y5c-yZ-2dc.text" = "———— 其他登陸方式 ———— ";
+
+/* Class = "UIButton"; configuration.title = "Dental"; ObjectID = "YFf-4p-YBk"; */
+"YFf-4p-YBk.configuration.title" = "牙醫";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "YFf-4p-YBk"; */
+"YFf-4p-YBk.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Available date and time"; ObjectID = "ZPu-Md-mH7"; */
+"ZPu-Md-mH7.text" = "可預約時間";
+
+/* Class = "UILabel"; text = "Let's take a snap of your pet to start  your journey with Pawla! "; ObjectID = "b6Y-ox-QQJ"; */
+"b6Y-ox-QQJ.text" = "為您的愛寵拍照以加入Pawla ";
+
+/* Class = "UIButton"; configuration.title = "Check-up"; ObjectID = "bCu-YJ-SGx"; */
+"bCu-YJ-SGx.configuration.title" = "簽到";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "bCu-YJ-SGx"; */
+"bCu-YJ-SGx.normalTitle" = "Button";
+
+/* Class = "UITabBarItem"; title = "Shop"; ObjectID = "cEQ-GD-qkS"; */
+"cEQ-GD-qkS.title" = "商店";
+
+/* Class = "UIButton"; configuration.title = "Forgot password?"; ObjectID = "cgE-iY-WjN"; */
+"cgE-iY-WjN.configuration.title" = "忘記密碼?";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "cgE-iY-WjN"; */
+"cgE-iY-WjN.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Weight"; ObjectID = "d3d-hm-T0J"; */
+"d3d-hm-T0J.configuration.title" = "體重";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "d3d-hm-T0J"; */
+"d3d-hm-T0J.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Scan image of your pet and get the\nsolution of the dieses and take care of\nyour lovely pet"; ObjectID = "dg9-Y3-jwe"; */
+"dg9-Y3-jwe.text" = "掃描您愛寵的照片，即可獲得疾病的解決方案，照顧您的愛寵";
+
+/* Class = "UILabel"; text = "Now you can see the \nresult"; ObjectID = "dtK-8s-efc"; */
+"dtK-8s-efc.text" = "查看結果";
+
+/* Class = "UIButton"; configuration.title = "Finish"; ObjectID = "eBn-wF-uFZ"; */
+"eBn-wF-uFZ.configuration.title" = "完成";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "eBn-wF-uFZ"; */
+"eBn-wF-uFZ.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "MBTI"; ObjectID = "f1F-dG-0Af"; */
+"f1F-dG-0Af.configuration.title" = "MBTI";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "f1F-dG-0Af"; */
+"f1F-dG-0Af.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Log out"; ObjectID = "fh9-5V-LQm"; */
+"fh9-5V-LQm.configuration.title" = "登出";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "fh9-5V-LQm"; */
+"fh9-5V-LQm.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Pet Registration"; ObjectID = "h01-bX-ZQQ"; */
+"h01-bX-ZQQ.configuration.title" = "註冊您的愛寵";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "h01-bX-ZQQ"; */
+"h01-bX-ZQQ.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Log in / Sign up"; ObjectID = "h0v-zU-P6Z"; */
+"h0v-zU-P6Z.configuration.title" = "登入 / 註冊";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "h0v-zU-P6Z"; */
+"h0v-zU-P6Z.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Back to Home"; ObjectID = "inh-38-eem"; */
+"inh-38-eem.configuration.title" = "返回主頁";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "inh-38-eem"; */
+"inh-38-eem.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Is your pet neutered?"; ObjectID = "iyR-Nz-XF2"; */
+"iyR-Nz-XF2.text" = "您的愛寵是否絕育？";
+
+/* Class = "UILabel"; text = "What's your pet's gender?"; ObjectID = "j9p-FA-WW8"; */
+"j9p-FA-WW8.text" = "您愛寵的性別是?";
+
+/* Class = "UITabBarItem"; title = "Appointment"; ObjectID = "jQ3-DN-iP1"; */
+"jQ3-DN-iP1.title" = "預約";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "kQM-0k-5iI"; */
+"kQM-0k-5iI.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Sign in with Apple"; ObjectID = "lVn-HF-Rlw"; */
+"lVn-HF-Rlw.configuration.title" = "Apple ID 登錄";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "lVn-HF-Rlw"; */
+"lVn-HF-Rlw.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Sign in with Google"; ObjectID = "m01-Ib-zTc"; */
+"m01-Ib-zTc.configuration.title" = "谷歌登陸";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "m01-Ib-zTc"; */
+"m01-Ib-zTc.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "m7e-2B-iZc"; */
+"m7e-2B-iZc.placeholder" = "密碼";
+
+/* Class = "UIButton"; configuration.title = "Register"; ObjectID = "nVV-TG-rCl"; */
+"nVV-TG-rCl.configuration.title" = "註冊";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "nVV-TG-rCl"; */
+"nVV-TG-rCl.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "What about your pet's breed?"; ObjectID = "oUG-aR-YcR"; */
+"oUG-aR-YcR.text" = "您愛寵的品種是？";
+
+/* Class = "UILabel"; text = "Welcome back,  pet lover!"; ObjectID = "oxU-ZS-gjz"; */
+"oxU-ZS-gjz.text" = "歡迎回來,  愛寵人!";
+
+/* Class = "UILabel"; text = "Explore"; ObjectID = "r4N-vH-mEt"; */
+"r4N-vH-mEt.text" = "探索";
+
+/* Class = "UIButton"; configuration.title = "Yes"; ObjectID = "rI6-Tk-UbY"; */
+"rI6-Tk-UbY.configuration.title" = "是";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "rI6-Tk-UbY"; */
+"rI6-Tk-UbY.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Next"; ObjectID = "rQZ-t6-Pmj"; */
+"rQZ-t6-Pmj.configuration.title" = "下一頁";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "rQZ-t6-Pmj"; */
+"rQZ-t6-Pmj.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Log in / Sign up"; ObjectID = "tFm-7V-7MM"; */
+"tFm-7V-7MM.configuration.title" = "登入 / 註冊";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "tFm-7V-7MM"; */
+"tFm-7V-7MM.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "tXP-rd-0wQ"; */
+"tXP-rd-0wQ.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "uUm-C9-6Pb"; */
+"uUm-C9-6Pb.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Care for your pet 🐶"; ObjectID = "uWr-a3-VQW"; */
+"uWr-a3-VQW.text" = "照顧您的愛寵🐶";
+
+/* Class = "UIButton"; configuration.title = "Next"; ObjectID = "x3j-hF-L1F"; */
+"x3j-hF-L1F.configuration.title" = "下一頁";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "x3j-hF-L1F"; */
+"x3j-hF-L1F.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Light/Dark Mode"; ObjectID = "xNX-FI-uSh"; */
+"xNX-FI-uSh.text" = "日間/夜間 模式";
+
+/* Class = "UITextField"; placeholder = "name"; ObjectID = "yB9-U9-cZs"; */
+"yB9-U9-cZs.placeholder" = "名字";
+
+/* Class = "UILabel"; text = "What is the name of your pet?"; ObjectID = "yBf-B4-i5B"; */
+"yBf-B4-i5B.text" = "您愛寵的名字是?";
+
+/* Class = "UILabel"; text = "Cat"; ObjectID = "yHW-0C-fdG"; */
+"yHW-0C-fdG.text" = "貓";
+
+/* Class = "UIButton"; configuration.title = "Get Started"; ObjectID = "yf4-Px-3Po"; */
+"yf4-Px-3Po.configuration.title" = "開始使用";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "yf4-Px-3Po"; */
+"yf4-Px-3Po.normalTitle" = "Button";
